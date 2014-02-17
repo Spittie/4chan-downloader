@@ -4,7 +4,7 @@
 Ugly, multithreaded 4chan downloader
 
 ## Usage:
-`python 4chan-downloader.py -t [THREAD] -f [NAME]  URL`
+`python 4chan-downloader.py -t [THREAD] -f [NAME] -s URL`
 
 - `-t [THREAD]` Optional, number of threads to spawn. Default is 4
 
