@@ -12,6 +12,6 @@ Ugly, multithreaded 4chan downloader
 
   If it's a relative path, then files will be downloaded in the current folder
   
-  It's possible to use any variables specified in the [4chan api](https://github.com/4chan/4chan-API) for the filenames, put between two `%`, plus `%id_thread%` and `%board`%
+  It's possible to use any variables specified in the [4chan api](https://github.com/4chan/4chan-API) for the filenames, put between two `%`, plus `%id_thread%` and `%board%`
 
 - `-s` Optional, silent. The program will not output anything
